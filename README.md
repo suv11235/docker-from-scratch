@@ -1,4 +1,4 @@
-# Build your own Docker
+# Docker from scratch
 
 Minimal container runner: execute a command with stdout/stderr relayed and exit with the child process exit code.
 
